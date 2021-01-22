@@ -35,7 +35,7 @@ curriculum: "swc-inflammation"
 # value of the variable below ("flavor") to get the schedule and installation
 # instructions updated accordingly (valid values are 'r' or 'python').
 # Note: this is only for Data Carpentry and SWC at this time.
-flavor: "python"
+flavor: "FIXME"
 
 # Overall title for the Workshop.
 # This variable is used to (optionally) add a title in the "jumbotron"
@@ -43,7 +43,7 @@ flavor: "python"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "DEVELOP Spring 2021 Software Carpentry Workshop"
+title: "NASA DEVELOP / CSU - Software Carpentry Workshop - Spring 2021"
 
 
 #------------------------------------------------------------
